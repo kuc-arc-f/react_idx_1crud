@@ -50,7 +50,7 @@ yarn start
 yarn build
 
 ***
-### sample , CMS edit app
+### sample , crud app
 
 https://react-idx-kuc.netlify.app/#/task
 

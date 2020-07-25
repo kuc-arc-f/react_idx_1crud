@@ -6,7 +6,7 @@ import { HashRouter as Router, Route } from 'react-router-dom';
 import Navbar from './component/Layouts/Navbar';
 import About from './component/About';
 import Home from './component/Home';
-import Show from './component/Show';
+//import Show from './component/Show';
 import Test from './component/Test';
 /* task */
 import TaskCreate from './component/Task/Create';
@@ -23,7 +23,6 @@ class App extends Component {
           <div>
             <Navbar />
             <Route exact path='/' component={Home}/>
-            <Route path="/show/:id" component={Show} />
             <Route path='/about' component={About}/>
             <Route path='/test' component={Test}/>
             <Route path='/task' component={TaskIndex}/>
