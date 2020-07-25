@@ -57,6 +57,7 @@ https://react-idx-kuc.netlify.app/#/task
 ***
 ### Blog :
 
+https://note.com/knaka0209/n/n8d26d954e64e
 
 ***
 
